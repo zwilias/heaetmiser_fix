@@ -1,0 +1,9 @@
+{
+  domain: "heatmiser",
+  name: "Heatmiser",
+  documentation: "https://www.home-assistant.io/integrations/heatmiser",
+  requirements: [
+    "git+https://github.com/andylockran/heatmiserV3.git@master"
+  ],
+  iot_class: "local_polling"
+}
